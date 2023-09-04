@@ -343,6 +343,7 @@ body.active { overflow: hidden; }
   padding-block: 20px;
   border-block-end: 1px solid var(--champagne-pink_20);
   z-index: 4;
+  height: 130px;
 }
 
 .header.active {
